@@ -3,11 +3,11 @@ package com.example.kc
 import android.animation.ObjectAnimator
 import android.content.Intent
 import android.media.Image
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import org.w3c.dom.Text
 
 class MainActivity : AppCompatActivity() {

@@ -8,12 +8,19 @@
         <entry key="..\:/kc/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/kc/app/src/main/res/layout/activity_main2.xml" value="0.2046875" />
         <entry key="..\:/kc/app/src/main/res/layout/activity_main3.xml" value="0.2046875" />
+        <entry key="..\:/kc/app/src/main/res/layout/cardview.xml" value="0.2046875" />
+        <entry key="..\:/kc/app/src/main/res/layout/city_items.xml" value="0.2046875" />
+        <entry key="..\:/kc/app/src/main/res/layout/fragment_1.xml" value="0.2046875" />
         <entry key="..\:/kc/app/src/main/res/layout/fragment_item.xml" value="0.2046875" />
         <entry key="..\:/kc/app/src/main/res/layout/fragment_item_list.xml" value="0.2046875" />
         <entry key="..\:/kc/app/src/main/res/layout/fragment_tab1.xml" value="0.22" />
         <entry key="..\:/kc/app/src/main/res/layout/fragment_tab2.xml" value="0.2046875" />
         <entry key="..\:/kc/app/src/main/res/layout/fragment_tab3.xml" value="0.2046875" />
+        <entry key="..\:/kc/app/src/main/res/layout/framelayout.xml" value="0.2046875" />
+        <entry key="..\:/kc/app/src/main/res/layout/item_main.xml" value="0.2046875" />
+        <entry key="..\:/kc/app/src/main/res/layout/item_recycler.xml" value="0.2046875" />
         <entry key="..\:/kc/app/src/main/res/layout/item_view.xml" value="0.2046875" />
+        <entry key="..\:/kc/app/src/main/res/layout/itemview.xml" value="0.2046875" />
       </map>
     </option>
   </component>
@@ -22,5 +29,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2046875" />
+      </ProjectState>
+    </option>
   </component>
 </project>
